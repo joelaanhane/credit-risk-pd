@@ -47,9 +47,7 @@ Two cost-sensitive logistic regression approaches were implemented and compared:
 
 ## Limitations
 - German Credit dataset is small (1000 observations) and dated
-- Stress testing would require longitudinal data spanning multiple economic cycles
 - Some variables (gender, foreign worker status) raise model fairness concerns
-- A production model would require independent model validation
 
 ## Technologies
 - Python 3.11
